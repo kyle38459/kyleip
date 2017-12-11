@@ -7,7 +7,7 @@ install_requires = [
     ]
 
 setup(name='kyleip',
-      version='0.1',
+      version='0.2',
       description='The kyleip project',
       packages=find_packages(),
       url='https://github.com/kyle38459/kyleip',
